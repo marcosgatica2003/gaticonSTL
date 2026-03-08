@@ -1,0 +1,15 @@
+Thanks for downloading!
+
+This .Zip files includes three versions for 3D printing:
+-Multi-material Print: .obj and .3MF files with multiple parts. To be printed in 4 colors: white, red, blue and green.
+Dual-color Print: .obj and 3MF files.
+-Single-color Print: .stl files with texture divided regions for each color.
+
+.ZIP file also includes a stand to display the model and decals in case you want to add the logos as stickers.
+
+Dimensions:
+Sphere radius: 50mm. Multicolor Prints are 3mm thick. Adjust the general dimensions to your taste.
+
+Pro tip: You can level up the model by painting it and adding logo stickers.
+
+Please give a like and follow me for more 3D prints: https://cults3d.com/en/users/G0N2AL0

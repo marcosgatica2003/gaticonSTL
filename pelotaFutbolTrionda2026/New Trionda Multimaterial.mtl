@@ -1,0 +1,13 @@
+# Exported from 3D Builder
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Green_0
+Kd 0.000000 1.000000 0.000000
+
+newmtl Red_0
+Kd 1.000000 0.000000 0.000000
+
+newmtl Blue_0
+Kd 0.000000 0.000000 1.000000
